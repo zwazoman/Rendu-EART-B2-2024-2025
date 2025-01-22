@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Cours-E-Art.sln"
+    "dotnet.defaultSolution": "Rendu-EART-B2-2024-2025.sln"
 }
